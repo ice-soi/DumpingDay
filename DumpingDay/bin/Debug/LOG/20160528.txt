@@ -1,0 +1,48 @@
+2016年05月28日 21:43:40XML ドキュメント (3,22) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:43:40XML ドキュメント (3,22) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:43:40XML ドキュメント (3,22) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:43:40XML ドキュメント (3,22) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:46:13XML ドキュメント (3,22) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:46:14XML ドキュメント (3,24) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:46:14XML ドキュメント (3,24) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml
+2016年05月28日 21:46:15XML ドキュメント (3,24) でエラーが発生しました。   場所 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   場所 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   場所 DumpingDay.Logic.clsXMLProcess.readSettingXML(String sFullPath) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 97
+   場所 DumpingDay.Logic.clsXMLProcess.Read(String sFilePath, String sXMLName) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsXMLProcess.cs:行 51
+   場所 DumpingDay.clsCommonLogic.getFormSetting() 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 98
+   場所 DumpingDay.clsCommonLogic.getDayOfWeekEvent(getDayofWeekEventContents getEventContents) 場所 g:\user\documents\visual studio 2015\Projects\DumpingDay\DumpingDay\Logic\clsCommonLogic.cs:行 122System.Xml

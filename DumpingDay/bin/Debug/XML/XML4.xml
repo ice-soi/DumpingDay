@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DisplayData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SundayMessage>・・・・・・・</SundayMessage>
+  <MondaydayMessage>月曜日</MondaydayMessage>
+  <TuesdayMessage>火曜日</TuesdayMessage>
+  <WednesdayMessage>水曜日</WednesdayMessage>
+  <ThursdayMessage>木曜日</ThursdayMessage>
+  <FridayMessage>ミニトマト</FridayMessage>
+  <SaturdayMessage>土曜日ですテストあああああああoooooooo</SaturdayMessage>
+</DisplayData>
