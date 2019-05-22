@@ -10,8 +10,8 @@
  - 予定は曜日ごとに最大4つ設定できます。
 
 ## 画面
-1.メイン画面
+1.メイン画面  
 <img src="https://github.com/ice-soi/DumpingDay/blob/picture/main.jpg" alt="login" title="login" width="450" height="300">  
-2.入力画面
+2.入力画面  
 <img src="https://github.com/ice-soi/DumpingDay/blob/picture/input.jpg" alt="login" title="login" width="450" height="300">  
 
